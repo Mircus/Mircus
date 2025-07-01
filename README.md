@@ -27,12 +27,13 @@ I believe in **human-augmenting AI** – not to replace us, but to deepen our ca
 | [`clifford-simplicial-geometry`](https://github.com/Mircus/clifford-simplicial-geometry) | Mapping topological data to Clifford algebra structures | Geometry, TDA, Clifford Algebras |
 
 Other projects are currently under private development, including  a multi-agent system for mental, physical, and emotional transformation through AI-enhanced self-knowledge.
+If interested contact me directly. 
 
 ---
 
 ## 📜 Philosophy
 
-> "Mathematics is not a tool for science. It is the *language of consciousness* itself."
+> "Mathematics is not a tool for science. It is the *language of Reality* itself."
 
 I'm interested in how high-level abstractions can guide intelligence, both human and artificial. I explore connections between **phenomenology, formal logic, and neural computation**, with a pragmatic engineering attitude.
 
