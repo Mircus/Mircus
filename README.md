@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mirco Mannucci
+# 👋 Hi, I'm Mirco A. Mannucci
 
 I'm a **polymath**, **AI researcher**, **applied mathematician**, and **innovation architect**.  
 My work explores the frontiers between symbolic and sub-symbolic reasoning, geometry and cognition, and classical and quantum computation.
@@ -26,7 +26,7 @@ I believe in **human-augmenting AI** – not to replace us, but to deepen our ca
 | [`chess-llm-analyzer`](https://github.com/Mircus/chess-llm-analyzer) | LLM-based chess advisor with PGN parsing and cognitive feedback | LangChain, Chess, Agents |
 | [`clifford-simplicial-geometry`](https://github.com/Mircus/clifford-simplicial-geometry) | Mapping topological data to Clifford algebra structures | Geometry, TDA, Clifford Algebras |
 
-Other projects are currently under private development, including the **HumanUpgrade Platform** – a multi-agent system for mental, physical, and emotional transformation through AI-enhanced self-knowledge.
+Other projects are currently under private development, including  a multi-agent system for mental, physical, and emotional transformation through AI-enhanced self-knowledge.
 
 ---
 
