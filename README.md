@@ -15,7 +15,18 @@ I believe in **human-augmenting AI** – not to replace us, but to deepen our ca
 - **Cognitive AI Architectures** – LangChain agents with long-term memory and reasoning chains
 - **Generative Intelligence** – Tools that elaborate raw ideas into structured mathematical form
 
----
+## 🛠 Tech & Environments
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Gemini-202124?style=for-the-badge&logo=google&logoColor=white" alt="Gemini (Google AI)"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebooks"/>
+</p>
 
 ## 🔍 Selected Public Projects
 
