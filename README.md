@@ -41,9 +41,9 @@ I'm interested in how high-level abstractions can guide intelligence, both human
 
 ## 📬 Contact & Links
 
-- [LinkedIn](https://linkedin.com/in/...) *(add yours)*
-- [Personal Website / Blog](https://...) *(optional)*
-- Email: mirco.mannucci@[domain].com *(optional)*
+- [LinkedIn](https://www.linkedin.com/in/mircomannucci/) 
+- [HoloMathics Website / Blog](www.holomathics.com) 
+- Email: mirco@holomathics.com 
 
 ---
 
