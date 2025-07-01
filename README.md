@@ -15,7 +15,7 @@ I believe in **human-augmenting AI** – not to replace us, but to deepen our ca
 - **Cognitive AI Architectures** – LangChain agents with long-term memory and reasoning chains
 - **Generative Intelligence** – Tools that elaborate raw ideas into structured mathematical form
 
-## 🛠 Tech & Environments
+
 
 ## 🛠 Tech & Environments
 
