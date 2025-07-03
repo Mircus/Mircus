@@ -73,14 +73,17 @@ I believe in **human-augmenting AI** – not to replace us, but to deepen our ca
 </p>
 
 
+
+
+
 ## 🔍 Selected Public Projects
 
-| Repository | Description | Topics |
-|------------|-------------|--------|
-| [`spectral-pruning-transformers`](https://github.com/Mircus/spectral-pruning-transformers) | Applying SVD and Random Matrix Theory to prune and analyze Transformer attention matrices | Transformers, Explainability, RMT |
-| [`quantum-weak-values-geometry`](https://github.com/Mircus/quantum-weak-values-geometry) | From weak measurement to superoscillations via Hilbert space deformation | Quantum Computing, Geometry |
-| [`chess-llm-analyzer`](https://github.com/Mircus/chess-llm-analyzer) | LLM-based chess advisor with PGN parsing and cognitive feedback | LangChain, Chess, Agents |
-| [`clifford-simplicial-geometry`](https://github.com/Mircus/clifford-simplicial-geometry) | Mapping topological data to Clifford algebra structures | Geometry, TDA, Clifford Algebras |
+| Repository                                         | Description                                                   | Topics                                    |
+| -------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------- |
+| [`NeuroScan`](https://github.com/Mircus/NeuroScan) | Visualizing neural network activation maps layer by layer     | PyTorch, Interpretability, Visualizations |
+| [`WalkGPT`](https://github.com/Mircus/WalkGPT)     | Merging knowledge graphs and LLMs via guided random walks     | Knowledge Graphs, LLM, Prompt Engineering |
+| [`DeepRMT`](https://github.com/Mircus/DeepRMT)     | Applying Random Matrix Theory to analyze deep network spectra | RMT, Deep Learning, Diagnostics           |
+
 
 Other projects are currently under private development, including  a multi-agent system for mental, physical, and emotional transformation through AI-enhanced self-knowledge.
 If interested contact me directly. 
