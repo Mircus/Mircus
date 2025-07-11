@@ -73,6 +73,21 @@ I believe in **human-augmenting AI** – not to replace us, but to deepen our ca
 </p>
 
 
+---
+
+## 🆕 NEWS / PROJECTS TO FOLLOW
+
+### 🧠 NeuroGlyph – A Relational Language for Multi-Agent Cognition  
+[🔗 GitHub Repo](https://github.com/Mircus/NeuroGlyph)
+
+**NeuroGlyph** is a new protocol language designed for structured communication among cognitive agents, both human and artificial.  
+Built around the core ideas of **relation**, **context**, and **semantic bridges**, it's intended for:
+
+- Modeling complex interactions in collaborative environments  
+- Powering tools like **HU-Core** and multi-agent systems  
+- Enabling philosophical dialogue, collaborative writing, and creative research sessions
+
+> “Every relation is a cognitive act. NeuroGlyph provides its grammar.”
 
 
 
