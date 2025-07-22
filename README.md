@@ -77,6 +77,15 @@ I believe in **human-augmenting AI** – not to replace us, but to deepen our ca
 
 ## 🆕 NEWS / PROJECTS TO FOLLOW
 
+### 🐾 HyperCat  
+A modular Python library for category theory, including:
+- Categories, functors, and natural transformations
+- 2-categories, toposes, monoidal structures
+- Simplicial sets, groupoids, presheaves, infinity categories  
+[🔗 GitHub Repo](https://github.com/Mircus/HyperCat)
+
+
+
 ### 🧠 NeuroGlyph – A Relational Language for Multi-Agent Cognition  
 [🔗 GitHub Repo](https://github.com/Mircus/NeuroGlyph)
 
