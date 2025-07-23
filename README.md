@@ -106,7 +106,7 @@ Built around the core ideas of **relation**, **context**, and **semantic bridges
 | -------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------- |
 | [`NeuroScan`](https://github.com/Mircus/NeuroScan) | Visualizing neural network activation maps layer by layer     | PyTorch, Interpretability, Visualizations |
 | [`WalkGPT`](https://github.com/Mircus/WalkGPT)     | Merging knowledge graphs and LLMs via guided random walks     | Knowledge Graphs, LLM, Prompt Engineering |
-| [`DeepRMT`](https://github.com/Mircus/DeepRMT)     | Applying Random Matrix Theory to analyze deep network spectra | RMT, Deep Learning, Diagnostics           |
+| [`DeepSpectra`](https://github.com/Mircus/DEEPSPECTRA)     | Applying Random Matrix Theory to analyze deep network spectra | RMT, Deep Learning, Diagnostics           |
 
 
 Other projects are currently under private development, including  a multi-agent system for mental, physical, and emotional transformation through AI-enhanced self-knowledge.
