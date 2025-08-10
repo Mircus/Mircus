@@ -108,8 +108,8 @@ Built around the core ideas of **relation**, **context**, and **semantic bridges
 | -------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------- |
 | [`NeuroScan`](https://github.com/Mircus/NeuroScan) | Visualizing neural network activation maps layer by layer     | PyTorch, Interpretability, Visualizations |
 | [`WalkGPT`](https://github.com/Mircus/WalkGPT)     | Merging knowledge graphs and LLMs via guided random walks     | Knowledge Graphs, LLM, Prompt Engineering |
-| [`DeepSpectra`](https://github.com/Mircus/DEEPSPECTRA)   | Applying Random Matrix Theory for deep networks spectra | RMT, Deep Learning, Diagnostics   |
-| [`CliffordLab`](https://github.com/Mircus/CliffordLab) | A lab to experiment with Clifford Regularity              |CLifford Algebra, Slice Regularity, Clifford ML   |
+| [`DeepSpectra`](https://github.com/Mircus/DEEPSPECTRA)   | Applying Random Matrix Theory for deep networks spectra | RMT, Deep Learning, Diagnostics           |
+| [`CliffordLab`](https://github.com/Mircus/CliffordLab) | A lab to experiment with Clifford Regularity              |Clifford Slice Regularity, Clifford ML     |
 
 Other projects are currently under private development, including  a multi-agent system for mental, physical, and emotional transformation through AI-enhanced self-knowledge.
 If interested contact me directly. 
