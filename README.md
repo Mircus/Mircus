@@ -70,7 +70,9 @@ I believe in **human-augmenting AI** – not to replace us, but to deepen our ca
 <p align="left">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   <img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/>
-  <img src="https://img.shields.io/badge/HAL-0057B8?style=for-the-badge&logoColor=white" alt="HAL"/>
+  <a href="https://hal.science/">
+  <img src="https://img.shields.io/badge/HAL-Open%20Archive-1F6FB2?style=for-the-badge" alt="HAL Open Archive"/>
+</a>
 </p>
 
 
